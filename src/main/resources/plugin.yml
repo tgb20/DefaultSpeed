@@ -1,0 +1,7 @@
+name: DefaultSpeed
+version: ${project.version}
+main: gg.tgb.defaultspeed.DefaultSpeed
+api-version: 1.16
+prefix: DefaultSpeed
+authors: [ tgb ]
+description: Allows you to modify the default speed values when a player joins the game
